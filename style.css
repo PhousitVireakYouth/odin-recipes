@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #3d556c;
+    color: #F3EBDB;
+    font-family: Arial, Helvetica, sans-serifp;
+}
+h1 {
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    display: grid;
+    gap: 5px;
+}
+
+.recipes {
+    margin-left: 30px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: auto;
+    display: grid;
+    border: 10px solid #F3EBDB;
+    background-color:#F3EBDB;
+}
+
+.hm-bttn {
+    display: grid;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.description {
+    padding-left: 15px;
+    margin: 40px 0px;
+}
+
+.description p {
+    padding-left: 13px;
+}
+
+.description ul, .description ol {
+    padding-left: 25px;
+    display: grid;
+    gap: 5px;
+}
+
+.description h2 {
+    padding: 8px;
+}
+
+.cinnamonroll {
+    height: 200px;
+}
